@@ -1,4 +1,4 @@
-// object model, that's an power of a OOP language
+// object model, that's the power of an OOP language
 function Details(name, institution, roll, home, semester) { // in the bracket put all the argument you need in a object model
   this.name = name
   this.institution = institution
